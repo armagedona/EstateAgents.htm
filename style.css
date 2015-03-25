@@ -1,0 +1,107 @@
+body{
+background-color:#ecebeb;
+font-family: "verdana";
+font-size: 14px;
+}
+.container{
+width: 940px;
+margin: 0 auto;
+}
+.linkBox{
+width:235px;
+position: relative;
+margin-right: 10px;
+float:left;
+}
+div.innerContainer{
+position:relative;
+float:left;
+width:940px;
+}
+fieldset.form{
+margin: center;
+}
+
+div.header{
+background-image: url(header.jpg);
+position: relative;
+width:940px;
+height:81px;
+}
+div.navigation{
+background-image: url(n1.jpg);
+background-repeat: repeat-x;
+position: relative;
+float: left;
+width:940px;
+height:45px;
+}
+div.pic{
+background-image: url(pic.jpg);
+position: relative;
+width:940px;
+height: 348px;
+}
+div.content{
+background-image: url(content.jpg);
+position: relative;
+width:940px;
+height:526px;
+}
+div.content2{
+background-image: url(content1.jpg);
+position: relative;
+width:940px;
+height:720px;
+}
+div.index{
+background-image: url(content1.jpg);
+position: relative;
+float: left;
+width:500px;
+height:720px;
+}
+div.accordion{
+background-image: url(content1.jpg);
+position: relative;
+font-size: 12px;
+float: left;
+width:440px;
+}
+div.content1{
+background-image: url(content1.jpg);
+position: relative;
+width:940px;
+height:570px;
+}div.content3{
+background-image: url(content1.jpg);
+position: relative;
+width:940px;
+height:285px;
+}
+div.footer{
+background-image: url(footer.jpg);
+position: relative;
+width:940px;
+height:100px;
+}
+img.z{
+width:150px;
+height:120px;
+}
+div.properties{
+background-image: url(content1.jpg);
+position: relative;
+width:940px;
+
+}
+div.like{
+position:relavent;
+float:right;
+margin: 15px;
+margin-right: -100px;
+}
+div.likef{
+position:relavent;
+margin: 10px;
+}
